@@ -5,6 +5,7 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
+
     <classAccesses>
         <apexClass>DreamHouseSampleDataController</apexClass>
         <enabled>true</enabled>
